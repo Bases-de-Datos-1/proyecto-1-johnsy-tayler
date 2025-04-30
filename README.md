@@ -2,7 +2,7 @@
 # Sistema de Gestión Hotelera
 ## Nombre y carné de los integrantes: 
 ### Tayler Wynta Rodríguez 2024143103
-### Johnsy López Aguilar  2024
+### Johnsy López Aguilar  2024178835
 
 
 ## Estado del proyecto:
